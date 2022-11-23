@@ -15,7 +15,7 @@ import java.util.Map;
  */
 @Slf4j
 @Component
-public class BiliBiliUserInfo {
+public class BiliBiliSpider {
 
     public static Long DEMO_UID = 27653080L;
 
